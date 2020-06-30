@@ -1,0 +1,659 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "36",
+            "categoryName": "手机",
+            "categoryPhotoName": "JIX3vFrm0ZNhpJeX24Vx.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "price_range",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "0-999"
+                        },
+                        {
+                            "key": "1",
+                            "value": "1000-1999"
+                        },
+                        {
+                            "key": "2",
+                            "value": "2000-3999"
+                        },
+                        {
+                            "key": "3",
+                            "value": "4000-5999"
+                        },
+                        {
+                            "key": "4",
+                            "value": "6000及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "屏幕尺寸",
+                    "fieldName": "screen_size",
+                    "itemEntryList": [
+                        {
+                            "key": "1",
+                            "value": "5.5-6.0英寸"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6.0-6.5英寸"
+                        },
+                        {
+                            "key": "3",
+                            "value": "6.5英寸以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "运行内存",
+                    "fieldName": "ram",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "3GB及以下"
+                        },
+                        {
+                            "key": "1",
+                            "value": "4GB"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6GB"
+                        },
+                        {
+                            "key": "3",
+                            "value": "8GB及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "存储容量",
+                    "fieldName": "rom",
+                    "itemEntryList": [
+                        {
+                            "key": "1",
+                            "value": "64GB"
+                        },
+                        {
+                            "key": "2",
+                            "value": "128GB"
+                        },
+                        {
+                            "key": "3",
+                            "value": "256GB及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "上市时间",
+                    "fieldName": "market_time",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "3个月内"
+                        },
+                        {
+                            "key": "1",
+                            "value": "3-6个月"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6个月以上"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "pageNum": 2,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "HUAWEI Mate 30",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/e94158b85285890794184625439/v.f20.mp4",
+            "name": "HUAWEI Mate 30",
+            "photoName": "53700717ABF3AC923E6F287B643C236E7732FD9C964FAE1Bmp.png",
+            "photoPath": "/product/6901443331116/",
+            "picture3DPath": "/display/10086727877036/9EAC39605755C5CFB27A5041851CE48CC1DA03ABFD2C9449.zip",
+            "price": 3999.0,
+            "priceAccurate": 3999.00,
+            "priceMode": 1,
+            "productId": 10086727877036,
+            "promoLabels": [
+                "整点赠送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "7nm旗舰芯片麒麟990，强大算力；4000万超感光徕卡三摄；4200mAh强劲续航，40W有线与27W无线双超级快充；屏内指纹识别",
+            "rateCount": 22320,
+            "skuCode": "2601010138902",
+            "skuCount": 3,
+            "skuName": "HUAWEI Mate 30 麒麟990 4000万超感光徕卡三摄 4G全网通 8GB+128GB（星河银）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/e94158b85285890794184625439/v.f20.mp4"
+        },
+        {
+            "briefName": "荣耀9X",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "荣耀9X",
+            "photoName": "1563503515663mp.png",
+            "photoPath": "/product/6901443321339/",
+            "picture3DPath": "",
+            "price": 1399.0,
+            "priceAccurate": 1399.00,
+            "priceMode": 1,
+            "productId": 10086912255346,
+            "promoLabels": [
+                "限时特价",
+                "整点赠送",
+                "赠送积分"
+            ],
+            "promoPrice": 1099.0,
+            "promoPriceAccurate": 1099.00,
+            "promotionInfo": "【优惠信息】①到手价1099！ ②整点限量加赠好礼（荣耀指定商品共享） ",
+            "rateCount": 133957,
+            "skuCode": "2601010124002",
+            "skuCount": 13,
+            "skuName": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通 4GB+64GB（魅海蓝）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "HUAWEI nova 6 SE",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "HUAWEI nova 6 SE",
+            "photoName": "42B09549789695A42D621CF87DC53B5EBE9385772DC61FB9mp.png",
+            "photoPath": "/product/6901443363124/",
+            "picture3DPath": "",
+            "price": 1999.0,
+            "priceAccurate": 1999.00,
+            "priceMode": 1,
+            "productId": 10086776160490,
+            "promoLabels": [
+                "一站式换新",
+                "整点赠限量手环",
+                "赠送积分"
+            ],
+            "promotionInfo": "【礼遇端午】①赠专属您的精美保护壳②整点赠华为3e手环③限量赠腾讯视频会员季卡| 以旧换新领券可再省50元，点此前往>>> 4800万高清镜头+200万景深镜头+200万微距镜头+800万超广角镜头+手持超级夜景，让您随手一拍都成大片。全新升级的GPU Turbo，加上4200mAh大电池，让精彩不限量。",
+            "rateCount": 3735,
+            "skuCode": "2601010171002",
+            "skuCount": 3,
+            "skuName": "HUAWEI nova 6 SE 8GB+128GB 全网通版（樱雪晴空）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀V30",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/89c9f3a15285890799882254764/v.f20.mp4",
+            "name": "荣耀V30",
+            "photoName": "FF89E07076590562DF095FCD47FD0C824121FD0D89A445CEmp.png",
+            "photoPath": "/product/6901443356904/",
+            "picture3DPath": "/display/10086811807933/090E3CBD5C6189A7FD499D139EFB4B678E64A1A4DE94A4B4.zip",
+            "price": 3299.0,
+            "priceAccurate": 3299.00,
+            "priceMode": 1,
+            "productId": 10086811807933,
+            "promoLabels": [
+                "限时优惠",
+                "一站式换新",
+                "下单立减",
+                "积分双倍抵现",
+                "限量送",
+                "赠送积分"
+            ],
+            "promoPrice": 2499.0,
+            "promoPriceAccurate": 2499.00,
+            "promotionInfo": "【端午限时低至2289】①限时优惠800元，下单立减200元，领券再减10元，享6期免息②整点限量赠荣耀手环4Running版（指定产品共享）③积分抵现最高抵用50元④一站换新最高补贴300元 ",
+            "rateCount": 21475,
+            "skuCode": "2601010170303",
+            "skuCount": 8,
+            "skuName": "荣耀V30 双模5G 麒麟990 突破性相机矩阵 6GB+128GB 幻夜星河 李现同款",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/89c9f3a15285890799882254764/v.f20.mp4"
+        },
+        {
+            "briefName": "荣耀畅玩9A",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/3f4222065285890800628170156/v.f20.mp4",
+            "name": "荣耀畅玩9A",
+            "photoName": "2F3A76D14CB25E4101278087C51487F4691E72674C684788mp.png",
+            "photoPath": "/product/6972453160638/",
+            "picture3DPath": "",
+            "price": 899.0,
+            "priceAccurate": 899.00,
+            "priceMode": 1,
+            "productId": 10086456016675,
+            "promoLabels": [
+                "整点赠送",
+                "积分双倍抵现",
+                "赠送积分"
+            ],
+            "promotionInfo": "【现货速发】①整点赠好礼②双倍积分抵现 ",
+            "rateCount": 8766,
+            "skuCode": "2601010184602",
+            "skuCount": 6,
+            "skuName": "荣耀畅玩9A 全网通 4GB+64GB 蓝水翡翠",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/3f4222065285890800628170156/v.f20.mp4"
+        },
+        {
+            "briefName": "华为畅享 10Plus",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为畅享 10Plus",
+            "photoName": "50BAC6E20ED77CBBE6D44BD831603E6F0FB45173DB1EE8B2mp.png",
+            "photoPath": "/product/6901443327690/",
+            "picture3DPath": "",
+            "price": 1399.0,
+            "priceAccurate": 1399.00,
+            "priceMode": 1,
+            "productId": 10086291072503,
+            "promoLabels": [
+                "一站式换新",
+                "积分双倍抵现",
+                "限量赠送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "①领券减200②以旧换新再省30，领券最高补贴500，点击参与>>> ",
+            "rateCount": 19710,
+            "skuCode": "2601010128801",
+            "skuCount": 12,
+            "skuName": "华为畅享10 Plus 4GB+128GB 全网通版（幻夜黑）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀V30 PRO",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/89c9f3a15285890799882254764/v.f20.mp4",
+            "name": "荣耀V30 PRO",
+            "photoName": "98C86546D993926AA64531BD16224A1CB286A8D663EF4F4Emp.png",
+            "photoPath": "/product/6901443356867/",
+            "picture3DPath": "/display/10086150470207/C4B59E1271A122ACA314C5E15D3E23FD3071560CDB3F21C9.zip",
+            "price": 3899.0,
+            "priceAccurate": 3899.00,
+            "priceMode": 1,
+            "productId": 10086150470207,
+            "promoLabels": [
+                "限时优惠",
+                "一站式换新",
+                "积分双倍抵现",
+                "限量送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promoPrice": 3399.0,
+            "promoPriceAccurate": 3399.00,
+            "promotionInfo": "限时优惠500元  享12期分期免息 ",
+            "rateCount": 25975,
+            "skuCode": "2601010170601",
+            "skuCount": 6,
+            "skuName": "荣耀V30 PRO 双模5G 麒麟990 5G SOC芯片 突破性相机矩阵 双超级快充 8GB+128GB 冰岛幻境 李现同款",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/89c9f3a15285890799882254764/v.f20.mp4"
+        },
+        {
+            "briefName": "HUAWEI nova 5 Pro",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/0d7526b95285890790687928610/v.f20.mp4",
+            "name": "HUAWEI nova 5 Pro",
+            "photoName": "1561435068797mp.png",
+            "photoPath": "/product/6901443316168/",
+            "picture3DPath": "",
+            "price": 2499.0,
+            "priceAccurate": 2499.00,
+            "priceMode": 1,
+            "productId": 10086985360457,
+            "promoLabels": [
+                "一站式换新",
+                "整点赠好礼",
+                "赠送积分"
+            ],
+            "promotionInfo": "①领券立省300②限量赠3e手环 | 以旧换新领券可再省50元，点此前往>>> 4800万AI四摄 人像超级夜景 麒麟980芯片 40w超级快充 光学屏内指纹 多功能NFC",
+            "rateCount": 41647,
+            "skuCode": "2601010118101",
+            "skuCount": 5,
+            "skuName": "HUAWEI nova 5 Pro 4800万AI四摄 人像超级夜景 易烊千玺代言 8GB+128GB 全网通版（绮境森林）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/0d7526b95285890790687928610/v.f20.mp4"
+        },
+        {
+            "briefName": "华为畅享10",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为畅享10",
+            "photoName": "83E26E25EA9423FB41DCC2769579FBA747AD844EF9D08041mp.png",
+            "photoPath": "/product/6901443354962/",
+            "picture3DPath": "",
+            "price": 1299.0,
+            "priceAccurate": 1299.00,
+            "priceMode": 1,
+            "productId": 10086835089299,
+            "promoLabels": [
+                "以旧换新抵现",
+                "积分双倍抵现",
+                "限量赠送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "①领券减200 6.39英寸极点全面屏|4800万超清夜景|4000毫安大电池，轻松用2天",
+            "rateCount": 6862,
+            "skuCode": "2601010155809",
+            "skuCount": 16,
+            "skuName": "华为畅享10 6GB+64GB 全网通版（幻夜黑）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为畅享 10e",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为畅享 10e",
+            "photoName": "C6960C20C53050E90CF1FA84EB7ADD6CA668F6987837B5E6mp.png",
+            "photoPath": "/product/6972453160508/",
+            "picture3DPath": "",
+            "price": 999.0,
+            "priceAccurate": 999.00,
+            "priceMode": 1,
+            "productId": 10086365288993,
+            "promoLabels": [
+                "一站式换新",
+                "积分双倍抵现",
+                "限量赠送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "5000毫安大电池，续航强劲|6.3英寸珍珠屏",
+            "rateCount": 5453,
+            "skuCode": "2601010182201",
+            "skuCount": 6,
+            "skuName": "华为畅享 10e 4GB+64GB 全网通版（幻夜黑）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀20青春版",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "荣耀20青春版",
+            "photoName": "9C11A078E25AB772B5818551785B6945B99E47031957C68Bmp.png",
+            "photoPath": "/product/6901443352562/",
+            "picture3DPath": "",
+            "price": 1499.0,
+            "priceAccurate": 1499.00,
+            "priceMode": 1,
+            "productId": 10086478053817,
+            "promoLabels": [
+                "限时特价",
+                "整点赠送",
+                "积分双倍抵现",
+                "赠送积分"
+            ],
+            "promoPrice": 1099.0,
+            "promoPriceAccurate": 1099.00,
+            "promotionInfo": "优惠400，成交价1099元！ ",
+            "rateCount": 27897,
+            "skuCode": "2601010161306",
+            "skuCount": 12,
+            "skuName": "荣耀20青春版 AMOLED屏幕指纹 4000mAh大电池 20W快充 4800万AI三摄 全网通 6GB+64GB（冰岛幻境）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀20 PRO",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/697d1a705285890792488263212/v.f20.mp4",
+            "name": "荣耀20 PRO",
+            "photoName": "1559307034391mp.png",
+            "photoPath": "/product/6901443315352/",
+            "picture3DPath": "",
+            "price": 2699.0,
+            "priceAccurate": 2699.00,
+            "priceMode": 1,
+            "productId": 10086779543890,
+            "promoLabels": [
+                "限时特价",
+                "积分双倍抵现",
+                "限量送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promoPrice": 2099.0,
+            "promoPriceAccurate": 2099.00,
+            "promotionInfo": "【优惠信息】 ①直降600元，到手价2099！ ②享6期免息 ",
+            "rateCount": 55139,
+            "skuCode": "2601010116502",
+            "skuCount": 6,
+            "skuName": "荣耀20 PRO 4800万全焦段AI四摄 麒麟980全网通版8GB+128GB 蓝水翡翠",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/697d1a705285890792488263212/v.f20.mp4"
+        },
+        {
+            "briefName": "HUAWEI Mate 30 RS 保时捷设计",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "HUAWEI Mate 30 RS 保时捷设计",
+            "photoName": "484D42DB83550E7CF59813E6BE3E2A9A4CF07CF0E75E32A3mp.png",
+            "photoPath": "/product/6901443353347/",
+            "picture3DPath": "",
+            "price": 12999.0,
+            "priceAccurate": 12999.00,
+            "priceMode": 1,
+            "productId": 10086374426533,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "尊享12期免息+赠华为超级快充无线车充 保时捷超跑基因，臻选皮质，匠心考究，麒麟990 5G旗舰SoC芯片，超曲面OLED环幕屏",
+            "rateCount": 5018,
+            "skuCode": "2601010167401",
+            "skuCount": 2,
+            "skuName": "HUAWEI Mate 30 RS 保时捷设计 5G全网通 12GB+512GB（玄黑）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀20",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/d5e31adc5285890789450329658/v.f20.mp4",
+            "name": "荣耀20",
+            "photoName": "1558244819612mp.png",
+            "photoPath": "/product/6901443304332/",
+            "picture3DPath": "",
+            "price": 2699.0,
+            "priceAccurate": 2699.00,
+            "priceMode": 1,
+            "productId": 10086244199203,
+            "promoLabels": [
+                "限时特价",
+                "限量送",
+                "赠送积分"
+            ],
+            "promoPrice": 1999.0,
+            "promoPriceAccurate": 1999.00,
+            "promotionInfo": "【优惠信息】直降700元，到手价1999！ ",
+            "rateCount": 106095,
+            "skuCode": "2601010113401",
+            "skuCount": 8,
+            "skuName": "荣耀20 4800万超广角AI四摄 3200W美颜自拍 麒麟980全网通版8GB+128GB 幻夜黑",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/d5e31adc5285890789450329658/v.f20.mp4"
+        },
+        {
+            "briefName": "【华为老用户场】HUAWEI P40",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "【华为老用户场】HUAWEI P40",
+            "photoName": "3D49606EC05C3B4ED89368F84D0B672CF5B647187113B9A2mp.png",
+            "photoPath": "/product/6901443381395/",
+            "picture3DPath": "/display/10086079107741/FABA3F5F3252E6DD5AF57CAB7B1B76BEF3C8751126E428FF.zip",
+            "price": 4488.0,
+            "priceAccurate": 4488.00,
+            "priceMode": 1,
+            "productId": 10086079107741,
+            "promoLabels": [
+                "一站式换新",
+                "商品赠券",
+                "整点赠礼",
+                "积分双倍抵现",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【粽享5G】①享6期免息 ②赠半年延保 ③整点限量赠好礼。点击参加以旧换新活动，最高补贴1000元>>> 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 全网通5G手机",
+            "rateCount": 11959,
+            "skuCode": "2601010192109",
+            "skuCount": 15,
+            "skuName": "【华为老用户场】HUAWEI P40 5G 全网通 8GB+128GB（零度白）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "HUAWEI Mate 30 Pro",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/e94158b85285890794184625439/v.f20.mp4",
+            "name": "HUAWEI Mate 30 Pro",
+            "photoName": "6727A057F57D5D8493A642A957F428FA5563E55F465D4FFDmp.png",
+            "photoPath": "/product/6901443331338/",
+            "picture3DPath": "/display/10086341244716/19E152AB1FEE7AA70C9FE94D9B6648BB5211640C44F2B2AF.zip",
+            "price": 5899.0,
+            "priceAccurate": 5899.00,
+            "priceMode": 1,
+            "productId": 10086341244716,
+            "promoLabels": [
+                "整点赠送",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "7nm旗舰芯片麒麟990，强大算力；双4000万徕卡电影四摄；超曲面OLED环幕屏；4500mAh强劲续航，40W有线与27W无线双超级快充；3D面容支付与屏内指纹识别",
+            "rateCount": 42679,
+            "skuCode": "2601010138501",
+            "skuCount": 8,
+            "skuName": "HUAWEI Mate 30 Pro 麒麟990 双4000万徕卡电影四摄 4G全网通 8GB+256GB（亮黑色）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/e94158b85285890794184625439/v.f20.mp4"
+        },
+        {
+            "briefName": "荣耀Play3",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/49bab2ca5285890795317723112/v.f20.mp4",
+            "name": "荣耀Play3",
+            "photoName": "922417A5F3E6B30817A34691A7A91A900B04849591A72113mp.png",
+            "photoPath": "/product/6901443333417/",
+            "picture3DPath": "",
+            "price": 999.0,
+            "priceAccurate": 999.00,
+            "priceMode": 1,
+            "productId": 10086693893548,
+            "promoLabels": [
+                "限时优惠",
+                "整点赠送",
+                "积分双倍抵现",
+                "赠送积分"
+            ],
+            "promoPrice": 949.0,
+            "promoPriceAccurate": 949.00,
+            "promotionInfo": "①限时优惠50元②整点购机限量赠AM115耳机（荣耀指定产品共享） ",
+            "rateCount": 36742,
+            "skuCode": "2601010131102",
+            "skuCount": 16,
+            "skuName": "荣耀Play3 6.39英寸魅眼全视屏 4000mAh大电池 真4800万AI三摄 麒麟710F自研芯片 全网通4GB+64GB （极光蓝）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/49bab2ca5285890795317723112/v.f20.mp4"
+        },
+        {
+            "briefName": "华为畅享 10S",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为畅享 10S",
+            "photoName": "600CA498F6CF6966B166659A726BAD1142EEF13C526CF2D4mp.png",
+            "photoPath": "/product/6901443352715/",
+            "picture3DPath": "",
+            "price": 1699.0,
+            "priceAccurate": 1699.00,
+            "priceMode": 1,
+            "productId": 10086588796413,
+            "promoLabels": [
+                "限量赠送",
+                "赠送积分"
+            ],
+            "promotionInfo": "①购机赠华为耳机 6.3英寸炫彩OLED全面屏|4800万超广角AI三摄|手持超级夜景",
+            "rateCount": 2069,
+            "skuCode": "2601010156906",
+            "skuCount": 12,
+            "skuName": "华为畅享 10S 6GB+128GB 全网通版（天空之境）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "【华为老用户场】HUAWEI P40 Pro",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/d6b452205285890800654415131/v.f20.mp4",
+            "name": "【华为老用户场】HUAWEI P40 Pro",
+            "photoName": "0410C56E4DFF825A527CBD3369F4D394F1699311CF51F864mp.png",
+            "photoPath": "/product/6901443381517/",
+            "picture3DPath": "/display/10086109970062/E277AADBE2F1679AC9BCF62A23139A60F2557049E22274D9.zip",
+            "price": 5988.0,
+            "priceAccurate": 5988.00,
+            "priceMode": 1,
+            "productId": 10086109970062,
+            "promoLabels": [
+                "一站式换新",
+                "商品赠券",
+                "整点赠礼",
+                "积分双倍抵现",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【粽享5G】①享6期免息 ②赠半年期延保 ③整点限量赠好礼。购机即赠摄影课程。点击参与以旧换新活动，最高可另享1000元补贴>>> 麒麟990 5G SoC芯片 5000万超感知徕卡四摄 50倍数字变焦 全网通5G手机",
+            "rateCount": 33385,
+            "skuCode": "2601010194103",
+            "skuCount": 16,
+            "skuName": "【华为老用户场】HUAWEI P40 Pro 5G 全网通 8GB+128GB（零度白）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/d6b452205285890800654415131/v.f20.mp4"
+        },
+        {
+            "briefName": "荣耀9X PRO",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "荣耀9X PRO",
+            "photoName": "9B5BB8A73F4E32BE9061245995C2EAA941B8EC0A0FFBD65Amp.png",
+            "photoPath": "/product/6901443403837/",
+            "picture3DPath": "",
+            "price": 1399.0,
+            "priceAccurate": 1399.00,
+            "priceMode": 1,
+            "productId": 10086466602618,
+            "promoLabels": [
+                "限时特价",
+                "限量送",
+                "赠送积分"
+            ],
+            "promoPrice": 1299.0,
+            "promoPriceAccurate": 1299.00,
+            "promotionInfo": "【新版直降100元】到手价1299！整点购机限量赠好礼（荣耀指定商品共享） ",
+            "rateCount": 17845,
+            "skuCode": "2601010125525",
+            "skuCount": 7,
+            "skuName": "荣耀9X PRO 麒麟810液冷散热 4000mAh超强续航 4800万超广角夜拍三摄 6.59英寸升降全面屏 全网通 6GB+64GB（幻影紫）",
+            "webVideoPath": ""
+        }
+    ],
+    "resultType": 1,
+    "success": true,
+    "totalCount": 47,
+    "transferState": 0
+}

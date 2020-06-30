@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('../fonts/iconfont.eot');
+    src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/iconfont.woff2') format('woff2'),
+        url('../fonts/iconfont.woff') format('woff'),
+        url('../fonts/iconfont.ttf') format('truetype'),
+        url('../fonts/iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    color: #3a3a3a;
+}
+
+body {
+    font: 12px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+    min-width: 1200px;
+}
+
+/* 版心 */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+/* 清除浮动 */
+.container:after, 
+.container:before {
+    content: " ";
+    display: table;
+}
+.container:after {
+    clear: both;
+}
+
+/* 清除浮动 */
+.clearfix:after, 
+.clearfix:before {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+
+a {
+    text-decoration: none;
+    color: #afafaf;
+}
+
+ul li {
+    list-style: none;
+    list-style-type: none;
+}
+
+em {
+    font-style: normal;
+    font-weight: 400;
+}
+}
+
+img {
+    border: 0;
+}
+
+.fl {
+    float: left;
+}
+input {
+    font-size: 100%;
+}

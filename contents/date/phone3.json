@@ -1,0 +1,299 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "36",
+            "categoryName": "手机",
+            "categoryPhotoName": "JIX3vFrm0ZNhpJeX24Vx.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "price_range",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "0-999"
+                        },
+                        {
+                            "key": "1",
+                            "value": "1000-1999"
+                        },
+                        {
+                            "key": "2",
+                            "value": "2000-3999"
+                        },
+                        {
+                            "key": "3",
+                            "value": "4000-5999"
+                        },
+                        {
+                            "key": "4",
+                            "value": "6000及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "屏幕尺寸",
+                    "fieldName": "screen_size",
+                    "itemEntryList": [
+                        {
+                            "key": "1",
+                            "value": "5.5-6.0英寸"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6.0-6.5英寸"
+                        },
+                        {
+                            "key": "3",
+                            "value": "6.5英寸以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "运行内存",
+                    "fieldName": "ram",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "3GB及以下"
+                        },
+                        {
+                            "key": "1",
+                            "value": "4GB"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6GB"
+                        },
+                        {
+                            "key": "3",
+                            "value": "8GB及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "存储容量",
+                    "fieldName": "rom",
+                    "itemEntryList": [
+                        {
+                            "key": "1",
+                            "value": "64GB"
+                        },
+                        {
+                            "key": "2",
+                            "value": "128GB"
+                        },
+                        {
+                            "key": "3",
+                            "value": "256GB及以上"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "上市时间",
+                    "fieldName": "market_time",
+                    "itemEntryList": [
+                        {
+                            "key": "0",
+                            "value": "3个月内"
+                        },
+                        {
+                            "key": "1",
+                            "value": "3-6个月"
+                        },
+                        {
+                            "key": "2",
+                            "value": "6个月以上"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "pageNum": 3,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "HUAWEI nova 5z",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "HUAWEI nova 5z",
+            "photoName": "21A7667FA769CBD35B1B4977DF61F62E011DB64E3FDCA71Bmp.png",
+            "photoPath": "/product/6901443356126/",
+            "picture3DPath": "",
+            "price": 1599.0,
+            "priceAccurate": 1599.00,
+            "priceMode": 1,
+            "productId": 10086118909880,
+            "promoLabels": [
+                "限时特价",
+                "一站式换新",
+                "积分双倍抵现",
+                "赠送积分"
+            ],
+            "promoPrice": 1399.0,
+            "promoPriceAccurate": 1399.00,
+            "promotionInfo": "【爆款优惠预售中，6.24优先发货】①限时直降200元 ②以旧换新省30元 | 立即点击前往预售场 >>> 麒麟810芯片，4800万AI四摄，3200万人像超级夜景，800万超广角镜头，200万微距镜头，让您随心一拍，都大显身手",
+            "rateCount": 41745,
+            "skuCode": "2601010169701",
+            "skuCount": 6,
+            "skuName": "【热销爆品】HUAWEI nova 5z 6GB+64GB 全网通版（幻夜黑）麒麟810芯片 4800万AI四摄 3200万人像超级夜景 创新极点全面屏",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀20S",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1b127d965285890794826024891/v.f20.mp4",
+            "name": "荣耀20S",
+            "photoName": "2F1BDEE1FA48AA45CEF803EA37F7EDE62A5F333E5AB30D20mp.png",
+            "photoPath": "/product/6901443323777/",
+            "picture3DPath": "",
+            "price": 1899.0,
+            "priceAccurate": 1899.00,
+            "priceMode": 1,
+            "productId": 10086452612142,
+            "promoLabels": [
+                "限时特价",
+                "限量送",
+                "赠送积分"
+            ],
+            "promoPrice": 1599.0,
+            "promoPriceAccurate": 1599.00,
+            "promotionInfo": "【到手价1599！】 ",
+            "rateCount": 47152,
+            "skuCode": "2601010128903",
+            "skuCount": 1,
+            "skuName": "荣耀20S 3200万人像超级夜景 4800万超广角AI三摄 麒麟810旗舰级芯片 全网通版6GB+128GB 蝶羽白",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1b127d965285890794826024891/v.f20.mp4"
+        },
+        {
+            "briefName": "HUAWEI nova 5i",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "HUAWEI nova 5i",
+            "photoName": "1560916569004mp.png",
+            "photoPath": "/product/6901443315895/",
+            "picture3DPath": "",
+            "price": 1999.0,
+            "priceAccurate": 1999.00,
+            "priceMode": 1,
+            "productId": 10086191812395,
+            "promoLabels": [
+                "整点赠限量手环",
+                "赠送积分"
+            ],
+            "promotionInfo": "①领券立省150②整点赠华为3e手环 2400万AI四摄 自拍极点全面屏 4000mAh大电池 全新升级GPU Turbo",
+            "rateCount": 11223,
+            "skuCode": "2601010119806",
+            "skuCount": 1,
+            "skuName": "HUAWEI nova 5i 2400万AI四摄 自拍极点全面屏 8GB+128GB 全网通版（蜜语红）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "HUAWEI nova 5i Pro",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "HUAWEI nova 5i Pro",
+            "photoName": "1563781926439mp.png",
+            "photoPath": "/product/6901443316526/",
+            "picture3DPath": "",
+            "price": 2099.0,
+            "priceAccurate": 2099.00,
+            "priceMode": 1,
+            "productId": 10086718678107,
+            "promoLabels": [
+                "整点赠限量手环",
+                "赠送积分"
+            ],
+            "promotionInfo": "极点全面屏，超广角4800万AI四摄，3200万人像超级夜景立体美颜手机",
+            "rateCount": 12248,
+            "skuCode": "2601010128205",
+            "skuCount": 1,
+            "skuName": "HUAWEI nova 5i Pro 8GB+128GB 全网通版（翡冷翠）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀Play3e",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "荣耀Play3e",
+            "photoName": "FADB1B48C9C92E3C47B8518FC93F9747F2D6549ACC4B1FD7mp.png",
+            "photoPath": "/product/6901443329243/",
+            "picture3DPath": "",
+            "price": 899.0,
+            "priceAccurate": 899.00,
+            "priceMode": 1,
+            "productId": 10086387384591,
+            "promoLabels": [
+                "整点赠送",
+                "赠送积分"
+            ],
+            "promotionInfo": "【现货速发】①下单抽5000元旅游基金②晒单抽1万份自拍杆； 5.71英寸珍珠全面屏；大电池长续航；时尚渐变双拼机身",
+            "rateCount": 645,
+            "skuCode": "2601010133203",
+            "skuCount": 3,
+            "skuName": "荣耀Play3e 5.71英寸珍珠全面屏3020mAh电池长续航 时尚渐变双拼机身 全网通 3GB+64GB（极光蓝）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为麦芒8",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为麦芒8",
+            "photoName": "1559035092483mp.png",
+            "photoPath": "/product/6901443315307/",
+            "picture3DPath": "",
+            "price": 1599.0,
+            "priceAccurate": 1599.00,
+            "priceMode": 1,
+            "productId": 10086500150623,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 3422,
+            "skuCode": "2601010115702",
+            "skuCount": 2,
+            "skuName": "华为麦芒8 6G+128G 全网通版（宝石蓝）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀20i",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/06aafbb25285890788162880800/v.f20.mp4",
+            "name": "荣耀20i",
+            "photoName": "3DB60755E7087E511D084C3D4C49B264CA23956E20E03382mp.png",
+            "photoPath": "/product/6901443298297/",
+            "picture3DPath": "",
+            "price": 1599.0,
+            "priceAccurate": 1599.00,
+            "priceMode": 1,
+            "productId": 10086905978384,
+            "promoLabels": [
+                "限时特价",
+                "赠送积分"
+            ],
+            "promoPrice": 999.0,
+            "promoPriceAccurate": 999.00,
+            "promotionInfo": "",
+            "rateCount": 80952,
+            "skuCode": "2601010109305",
+            "skuCount": 3,
+            "skuName": "荣耀20i 3200万AI自拍 超广角三摄 全网通 4GB+128GB（渐变红）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/06aafbb25285890788162880800/v.f20.mp4"
+        }
+    ],
+    "resultType": 1,
+    "success": true,
+    "totalCount": 47,
+    "transferState": 0
+}

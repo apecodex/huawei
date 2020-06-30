@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/icon" sizes="144x144" href="./readme_def/images/ico.jpg"/>
+    <link rel="stylesheet" href="./readme_def/css/style.css">
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>说明: 模仿华为商城-实训课作业</title>
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1> 模仿华为商城</h1>
+        <section id="downloads">
+          <h2>实训作业</h2>
+          <p style="color: tomato;">团队成员: 刘阳雄</p>
+          <p>成员只有我一个人</p>
+          <p>本来是4个人的，后来听说要比赛，就一个人模仿一个网站</p>
+          <p>刚开始写的是"小米官网"的页面，我负责写了首页部分，后面我就一个人写了"华为商城",不是搞孤立，而是太简单，一个人就可以完成的事情</p>
+          <p>页面简写了很多，只写了一部分的，现在我就说明一下写了那些内容的</p>
+          <hr>
+          
+          <h3> 页面包括两大部分（点击即可跳转）</h3>
+          <a href="./index.html" target="_black" class="btn btn-github"><span class="icon"></span>PC端页面</a>
+          <a href="./mobile/index.html" target="_black" class="btn btn-github"><span class="icon"></span>移动端页面</a>
+          <p>这决不是网上找的，唯一一份，估计都找不到，找到也是代码不一样，所以能证明是自己一个一个敲的。</p>
+          <h3>选用技术</h3>
+          <p>PC端最主要的是页面的版心，所以也用不着啥高端技术，毕竟原版也是那样写的</p>
+          <p>移动端用到的技术：媒体查询+less+flex</p>
+          <p>实现了不同设备访问判断</p>
+          <hr>
+          <br>
+          <h2>还是后端好写.......</h2>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h1>写了那些内容</h1>
+        <p></p>
+
+        <hr />
+        <p>第一个页面就是首页部分</p>
+        <img src="./readme_def/images/index.png" alt="">
+        <p> 基本上还原了原官网的所有特效，轮播图啊，鼠标悬浮显示二级导航啊等等...</p>
+        <hr>
+        <p>第二个页面是 登录界面</p>
+        <img src="./readme_def/images/login.png" alt="">
+        <hr>
+        <p>第三个页面是 手机内容节目</p>
+        <img src="./readme_def/images/phone.png" alt="">
+        <p>这个页面没有从原官网上扒图片，用的是他的json数据，用jquery读取后直接映射到html文档里面的</p>
+        <p>所以就导致了一个问题</p>
+        <h4>Access to XMLHttpRequest at 'file:///home/apecode/Documents/html/huawei/contents/date/phone1.json' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
+        </h4>
+        <p>报这个错，这个错的问题是：跨域请求出现问题，丢在服务器就可以了（类似于Tomcat这类）</p>
+        <hr>
+        <p>第四个页面是 移动端页面</p>
+        <img src="./readme_def/images/mobile.png" alt="">
+        <p>没写完，写不动了</p>
+        <p>实现了自适应</p>
+        <p>差不多就这些</p>
+        <!-- <p>下载完之后，找到名为 <strong>"Sixuetang.zip" </strong>的压缩包，右键解压(解压到哪儿都可以)</p>
+        <p>内容如下图:</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/download_source_list.png" alt="">
+        <br>
+        <p>然后把滚动条拉到最下面，找到 <strong>"思学糖.exe" </strong> 运行即可</p>
+        <p>细心的朋友可能会看见一个名为 <strong>"main.exe" </strong>的运行文件，这个也可以运行，只是不推荐，因为 <strong>"思学糖.exe"</strong> 是处理过的，启动速度会快一些</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/download_source_last.png" alt="">
+        <br>
+        <p>打开之后，如果顺利(网络、版本正常)的话，点击 <strong>"确定"</strong> 就可以进入主界面了</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/check_ok.png" alt="">
+        <br>
+        <p>然后来看看不顺利的情况</p>
+        <p>如果没有网络，或者网络异常，会显示如下提示:</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/check_conn_error.png" alt="">
+        <p>如果你网络是正常的，你可以点击 <strong>"重试"</strong> 来重新检查网络</p>
+        <p>但有时候第一次打开也会提示 <strong>"网络异常"</strong> 点重试就可以了</p>
+        <p>现在来说一下更新问题:</p>
+        <p>如果要更新，运行后如下图:</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/download_tips.png" alt="">
+        <p>更新很简单，重新来这个网站下载最新的安装包就好了</p>
+        <p>如果记不住网址，也可以这样，点击下载后自动打开浏览器到这个网站</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/download_tips_open.png" alt="">
+        <p>如果点了没反应，就copy一下网址，到浏览器里面下载</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/download_tips_copy.png" alt="">
+        <hr>
+        <p>现在就到主页面的教程了，我是不是很细心？</p>
+        <p>主页面进来后，第一步先登录，只有登录了才能继续下一步(放心，我不会记录你们的账号和密码的，我拿着也没用)</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/input_login_tips.png" alt="">
+        <p>如果登录成功，会直接把你的课程列表显示出来，并且顶部有你的姓名及班级</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/login_ok_get_course.png" alt="">
+        <p>如果登录失败，会提示你为什么会登录不了的，比如啥账号错了啊，还是密码错了啊。</p>
+        <hr>
+        <p>接下来就是获取课程的章节了</p>
+        <p>首先要选中课程，再点击 <strong>"获取章节"</strong> 就可以得到课程的章节了</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/get_chapter.png" alt="">
+        <p>接着就是选择要代做的章节</p>
+        <p>① 先选择要代做哪些章节（鼠标滚动可以下拉）</p>
+        <p>② 选择代做课前还是课后，也可以两个一起</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/chapter_b_a_select.png" alt="">
+        <p>然后点击 <strong>"生成价格"</strong> 会提示你选择的课程及单元</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/click_price.png" alt="">
+        <img src="https://apecodewx.gitee.io/sixuetang/images/click_price_tips.png" alt="">
+        <p>同时 <strong>"生成价格"</strong> 的上面会显示需要的金额</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/price_tips.png" alt="">
+        <p>确认无误后，点击 <strong>"支付"</strong> 会生成一个二维码，在倒计时结束前完成支付</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/click_alipay.png" alt="">
+        <img src="https://apecodewx.gitee.io/sixuetang/images/alipay_code.png" alt="">
+        <p>如果选错了或者不想支付了，关掉窗口后订单将自动取消</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/pay_close.png" alt="">
+        <h5>注意: 关闭二维码窗口后，支付按钮会卡顿5秒，这是为了防止操作过快，5秒后可再次生成二维码</h5>
+        <p>如果你扫了码，但又不想支付了，你也不关闭二维码页面，等倒计时结束后将自动关闭订单</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/not_pay_over.png" alt="">
+        <p>支付成功后，会有弹窗提示支付成功...</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/pay_ok.png" alt="">
+        <p>在左下角有一个进度可以观察</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/make_chaptering.png" alt="">
+        <p>代做完成之后，也会有弹窗提示你已完成</p>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/pay_ok_over.png" alt="">
+        <p>就这么多，不难操作吧?我这么细心的教程，应该是没问题了</p>
+        <br>
+        <hr>
+        <h1>这里是一些偶然发生的小BUG (特别奇怪，我这明明运行没问题)</h1>
+        <h4>可能是每台电脑的环境导致的，就会出现各种问题，如果没有出现以下问题，就在讨论群找我</h4>
+        <hr>
+        <h3>BUG 1</h3>
+        <img src="https://apecodewx.gitee.io/sixuetang/images/bug01.png" alt="">
+        <p>问题1: 二维码显示不出来?</p>
+        <p>问题2: 背景怎么跟我测试好的不一样啊?</p>
+        <p><strong>解决方法: </strong></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全部关掉重新打开应该就可以了~</p>
+        <hr>
+        <center><strong>这里是华丽的分界线</strong></center>
+        <br>
+        <hr>
+        <h3>这里是更新日志</h3>
+        <h4>V1.2</h4>
+        <p>>>>&nbsp;修复了支付后会自动退款的问题</p>
+        <p>>>>&nbsp;修复了强制关闭窗口无法关闭订单问题</p>
+        <p>>>>&nbsp;修复了修复了倒计时的准确性</p>
+        <p>>>>&nbsp;降低了用户体验(点击支付后，关闭二维码页面会卡顿5秒，这是为了防止操作过快)</p>
+        <p>>>>&nbsp;修复了一些零碎BUG</p>
+        <h4>V1.1</h4>
+        <p>>>>&nbsp;增加支付倒计时</p>
+        <p>>>>&nbsp;修复了用户强制关闭之后导致的无法关闭支付订单</p>
+        <p>>>>&nbsp;修复了自毁功能</p>
+        <p>>>>&nbsp;修复了一些零零散散的小BUG</p>
+        <hr>
+        <h4>V1.0</h4>
+        <p>>>>&nbsp;发布</p> -->
+      </section>
+
+    </div>
+  </body>
+</html>
