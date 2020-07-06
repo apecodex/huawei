@@ -1,0 +1,91 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "247",
+            "categoryName": "智能手表",
+            "categoryPhotoName": "0Y6mgYUHcG3gERh17TeE.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "secondary_price",
+                    "itemEntryList": [
+                        {
+                            "key": "{\"lte\":500,\"gt\":0}",
+                            "value": "0-500"
+                        },
+                        {
+                            "key": "{\"lte\":1201,\"gt\":500}",
+                            "value": "500-1201"
+                        },
+                        {
+                            "key": "{\"lte\":1990,\"gt\":1201}",
+                            "value": "1201-1990"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "674",
+            "categoryName": "儿童手表",
+            "categoryPhotoName": "0NCqMxejMwBpEV2y9uLX.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "241",
+            "categoryName": "智能手环",
+            "categoryPhotoName": "mIciZsAGxcsbqvdnpDOR.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "672",
+            "categoryName": "智能健康配件",
+            "categoryPhotoName": "qTAlllD9ywsKq6KeZrXh.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "329",
+            "categoryName": "VR",
+            "categoryPhotoName": "J5J8CdyGd5WZr3b2BxaV.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "58",
+            "categoryName": "充电器/线材",
+            "categoryPhotoName": "Fmgh7SW5ekhoKu9rr7oy.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        }
+    ],
+    "pageNum": 3,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "NOLO CV1 Air VR定位交互套装",
+            "buttonMode": "1",
+            "goodRate": "94",
+            "mobileVideoPath": "",
+            "name": "NOLO CV1 Air VR定位交互套装",
+            "photoName": "D81E733F1187DB7553553BF6A80EF7BB1BBD4B36FC2C4CA5mp.png",
+            "photoPath": "/product/6972557690024/",
+            "picture3DPath": "",
+            "price": 1299.0,
+            "priceAccurate": 1299.00,
+            "priceMode": 1,
+            "productId": 10086222644789,
+            "promoLabels": [],
+            "promotionInfo": "DESIGN FOR HAUWEI（简称DFH）授权VR交互套装，6DOF交互定位，适配HUAWEI VR Glass畅玩千款SteamVR游戏",
+            "rateCount": 103,
+            "skuCode": "3102150141901",
+            "skuCount": 1,
+            "skuName": "NOLO CV1 Air VR定位交互套装 黑色（支持HUAWEI VR Glass）（DESIGN FOR HUAWEI认证）",
+            "webVideoPath": ""
+        }
+    ],
+    "resultType": 1,
+    "searchId": "e2465559d24549a7955ce06dd7f17ed6",
+    "success": true,
+    "totalCount": 41,
+    "transferState": 0
+}

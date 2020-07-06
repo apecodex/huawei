@@ -1,0 +1,349 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "678",
+            "categoryName": "平板",
+            "categoryPhotoName": "6jQRCiBHCoXiKPBnkMsL.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "secondary_price",
+                    "itemEntryList": [
+                        {
+                            "key": "{\"lte\":1601,\"gt\":0}",
+                            "value": "0-1601"
+                        },
+                        {
+                            "key": "{\"lte\":2801,\"gt\":1601}",
+                            "value": "1601-2801"
+                        },
+                        {
+                            "key": "{\"lte\":6801,\"gt\":2801}",
+                            "value": "2801-6801"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "pageNum": 1,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "HUAWEI MatePad",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "HUAWEI MatePad",
+            "photoName": "1E5208A341082F0B17029EE12C6B80CE3F4D2383DC1913CAmp.png",
+            "photoPath": "/product/6901443378876/",
+            "picture3DPath": "",
+            "price": 2199.0,
+            "priceAccurate": 2199.00,
+            "priceMode": 1,
+            "productId": 10086588065570,
+            "promoLabels": [
+                "一站式换新",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【数码超品日】：① 提前预订优惠100  ② 享6期免息 | 点击立即预订 >>> ",
+            "rateCount": 5536,
+            "skuCode": "2701010023203",
+            "skuCount": 6,
+            "skuName": "HUAWEI MatePad 平板电脑10.4英寸系列 6GB+128GB WiFi（贝母白）专属教育中心 强劲性能 沉浸音乐 华为智能学习平板",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀平板V6 10.4英寸",
+            "buttonMode": "1",
+            "displayTags": "新品",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "荣耀平板V6 10.4英寸",
+            "photoName": "4AEAC36AD2AF1CF0C01E356C9E717B167BCA1B9D76A56DE4mp.png",
+            "photoPath": "/product/6972453164544/",
+            "picture3DPath": "",
+            "price": 2199.0,
+            "priceAccurate": 2199.00,
+            "priceMode": 1,
+            "productId": 10086412944469,
+            "promoLabels": [
+                "限时特价",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promoPrice": 2189.0,
+            "promoPriceAccurate": 2189.00,
+            "promotionInfo": "【现货速发】①手写笔套餐减150元②3期免息 ",
+            "rateCount": 2199,
+            "skuCode": "2701010024701",
+            "skuCount": 4,
+            "skuName": "荣耀平板V6 10.4英寸 6GB+64GB WiFi（幻夜黑 ） 麒麟985旗舰芯片 2K全面屏 多屏协同 全球首款Wifi6+平板",
+            "tagBgColor": "68BEFF",
+            "tagPhotoName": "1489666525347.png",
+            "tagPhotoPath": "/tag/87/",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "HUAWEI MatePad Pro",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4480b5dd5285890796215999622/v.f20.mp4",
+            "name": "HUAWEI MatePad Pro",
+            "photoName": "43FF8D6E14324A16BAA680D242AB29BF72BACAE425DD5943mp.png",
+            "photoPath": "/product/6901443362165/",
+            "picture3DPath": "",
+            "price": 3799.0,
+            "priceAccurate": 3799.00,
+            "priceMode": 1,
+            "productId": 10086663107289,
+            "promoLabels": [
+                "一站式换新",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【数码超品日】：① 提前预订优惠200  ② 享6期免息 | 点击立即预订 >>> ",
+            "rateCount": 27744,
+            "skuCode": "2701010019006",
+            "skuCount": 15,
+            "skuName": "HUAWEI MatePad Pro 10.8英寸 6GB+128GB 全网通（贝母白）麒麟990芯片 多屏协同 绚丽全面屏 智慧轻办公平板电脑",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4480b5dd5285890796215999622/v.f20.mp4"
+        },
+        {
+            "briefName": "华为平板 M6 10.8英寸",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/5265bcaf5285890790243795160/v.f20.mp4",
+            "name": "华为平板 M6 10.8英寸",
+            "photoName": "CC6D09EC69753C356A4369E19A3036800E5F3BAA40E88AFDmp.png",
+            "photoPath": "/product/6901443315819/",
+            "picture3DPath": "",
+            "price": 2699.0,
+            "priceAccurate": 2699.00,
+            "priceMode": 1,
+            "productId": 10086441039650,
+            "promoLabels": [
+                "一站式换新",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【数码超品日】：① 提前预订优惠200  ② 享6期免息 ③限量赠智能底座 | 点击立即预订 >>> 麒麟980芯片  2K高清屏   应用分屏 一屏两用 哈曼卡顿调音 四声道四扬声器  儿童模式 多重护眼 智能平板电脑",
+            "rateCount": 29860,
+            "skuCode": "2701010013303",
+            "skuCount": 7,
+            "skuName": "华为平板 M6 10.8英寸 4GB+128GB WiFi（香槟金）麒麟980芯片  2K高清屏   应用分屏 一屏两用 哈曼卡顿调音 四声道四扬声器",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/5265bcaf5285890790243795160/v.f20.mp4"
+        },
+        {
+            "briefName": "华为平板 M6 8.4英寸",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为平板 M6 8.4英寸",
+            "photoName": "BBE972757C37ECDE5CE7F6BDCB2FA925C23D435D94D8DAEEmp.png",
+            "photoPath": "/product/6901443329588/",
+            "picture3DPath": "",
+            "price": 2499.0,
+            "priceAccurate": 2499.00,
+            "priceMode": 1,
+            "productId": 10086212903203,
+            "promoLabels": [
+                "一站式换新",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "享3期免息 | 点击了解更多商品>>> ",
+            "rateCount": 11556,
+            "skuCode": "2701010013210",
+            "skuCount": 8,
+            "skuName": "华为平板 M6 高能版 8.4英寸 6GB+128GB WiFi（幻影红）麒麟980芯片 2K超清画质 哈曼卡顿调音 液冷散热 GPU Turbo加速游戏体验",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀平板5 10.1英寸",
+            "buttonMode": "10",
+            "displayTags": "高清护眼",
+            "goodRate": "99",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/0b1daff25285890782624080964/v.f20.mp4",
+            "name": "荣耀平板5 10.1英寸",
+            "photoName": "ECAAF96C88B6F64DD2EA7C7A6F643ED08B5295B484A96263mp.png",
+            "photoPath": "/product/6901443351732/",
+            "picture3DPath": "",
+            "price": 1199.0,
+            "priceAccurate": 1199.00,
+            "priceMode": 1,
+            "productId": 10086527872485,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "荣耀平板V6 新品上市 三期免息丨点击购买go>> 10.1英寸全高清屏，麒麟8核芯片，哈曼卡顿音效，GPU Turbo游戏加速，智能护眼，儿童乐园，守护更安心！",
+            "rateCount": 19985,
+            "skuCode": "2701010007709",
+            "skuCount": 5,
+            "skuName": "荣耀平板5 10.1英寸 3GB+32GB WIFI标准版（冰川蓝）",
+            "tagBgColor": "FF6A6E",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/0b1daff25285890782624080964/v.f20.mp4"
+        },
+        {
+            "briefName": "华为平板 M5 青春版 8.0英寸",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为平板 M5 青春版 8.0英寸",
+            "photoName": "03E36F3811C5C3E97E89CB7C6CD937E843B234BADFEE705Fmp.png",
+            "photoPath": "/product/6901443321209/",
+            "picture3DPath": "",
+            "price": 1599.0,
+            "priceAccurate": 1599.00,
+            "priceMode": 1,
+            "productId": 10086588896125,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "享3期免息 | 点击了解更多商品>>> ",
+            "rateCount": 5303,
+            "skuCode": "2701010012007",
+            "skuCount": 6,
+            "skuName": "华为平板 M5 青春版 8.0英寸 4GB+64GB 全网通版（香槟金）智能声控平板 哈曼卡顿调音 麒麟710芯片",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为畅享平板",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为畅享平板",
+            "photoName": "F3666B2C86BE07BAC1582B4AA3B24F8AC4A0FA875E07A683mp.png",
+            "photoPath": "/product/6901443267521/",
+            "picture3DPath": "",
+            "price": 1599.0,
+            "priceAccurate": 1599.00,
+            "priceMode": 1,
+            "productId": 10086749611489,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "享3期免息 | 点击了解更多商品>>> 畅快追剧，大屏享受，超高性价比",
+            "rateCount": 4785,
+            "skuCode": "2701010008403",
+            "skuCount": 4,
+            "skuName": "华为畅享平板 10.1英寸 4GB+64GB WIFI版（香槟金）高清显示屏 护眼模式 儿童乐园",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀平板5 8英寸",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "荣耀平板5 8英寸",
+            "photoName": "4D5277A3C722BA5B6264FDBD8913F19F76DAC831EF46DCA0mp.png",
+            "photoPath": "/product/6901443319954/",
+            "picture3DPath": "",
+            "price": 1399.0,
+            "priceAccurate": 1399.00,
+            "priceMode": 1,
+            "productId": 10086966382496,
+            "promoLabels": [
+                "限时特价",
+                "一站式换新",
+                "商品赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promoPrice": 1299.0,
+            "promoPriceAccurate": 1299.00,
+            "promotionInfo": "【现货速发】①最高优惠300元②支付享三期免息 全高清屏，多重智能护眼，对称式双扬声器，杜比全景声震撼声场，麒麟710强劲芯片，GPU Turbo 2.0 游戏加速，好玩不贵！",
+            "rateCount": 8217,
+            "skuCode": "2701010011609",
+            "skuCount": 4,
+            "skuName": "荣耀平板5 8英寸 4GB+128GB WIFI尊享版（苍穹灰）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀畅玩平板2 9.6英寸",
+            "buttonMode": "10",
+            "goodRate": "97",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/26975ef77447398155330953787/v.f20.mp4",
+            "name": "荣耀畅玩平板2 9.6英寸",
+            "photoName": "4CA893B8B09D1B15537079CC6065C1C3C24A3E37E2193E23mp.png",
+            "photoPath": "/product/6901443192458/",
+            "picture3DPath": "",
+            "price": 1099.0,
+            "priceAccurate": 1099.00,
+            "priceMode": 1,
+            "productId": 405225095,
+            "promoLabels": [
+                "限时特价",
+                "一站式换新",
+                "赠送积分"
+            ],
+            "promoPrice": 949.0,
+            "promoPriceAccurate": 949.00,
+            "promotionInfo": "荣耀平板V6 新品上市 三期免息丨点击购买go>> 9.6英寸高清大屏，清晰护眼！4800 mAh大电池，长续航追剧一整天！",
+            "rateCount": 9132,
+            "skuCode": "1201010004504",
+            "skuCount": 2,
+            "skuName": "荣耀畅玩平板2 9.6英寸 3G+32G WiFi高配版（苍穹灰） 9.6英寸高清大屏 清晰护眼 4800 mAh大电池  长续航一整天",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/26975ef77447398155330953787/v.f20.mp4"
+        },
+        {
+            "briefName": "荣耀畅玩平板2 8英寸",
+            "buttonMode": "1",
+            "goodRate": "97",
+            "mobileVideoPath": "",
+            "name": "荣耀畅玩平板2 8英寸",
+            "photoName": "1494903255662mp.jpg",
+            "photoPath": "/product/6901443179541/",
+            "picture3DPath": "",
+            "price": 999.0,
+            "priceAccurate": 999.00,
+            "priceMode": 1,
+            "productId": 121879018,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "荣耀平板V6 新品上市 三期免息丨点击购买go>> 护眼滤蓝光高清屏；4800mAh大电池长续航；智能调度CPU、内存资源，系统持久流畅！",
+            "rateCount": 3779,
+            "skuCode": "1201010004402",
+            "skuCount": 1,
+            "skuName": "荣耀畅玩平板2 8英寸 LTE版（日晖金）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为平板 M5 青春版",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4c9a97e95285890783177036122/v.f20.mp4",
+            "name": "华为平板 M5 青春版",
+            "photoName": "1554811401362mp.png",
+            "photoPath": "/product/6901443288755/",
+            "picture3DPath": "",
+            "price": 1999.0,
+            "priceAccurate": 1999.00,
+            "priceMode": 1,
+            "productId": 10086893318670,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "享3期免息 | 点击了解更多商品>>> 智能语音平板，动手不如动口，听音乐看电影张口即来",
+            "rateCount": 14903,
+            "skuCode": "2701010008504",
+            "skuCount": 2,
+            "skuName": "华为平板 M5 青春版 10.1英寸 4GB+128GB WiFi版（香槟金）智能声控平板  哈曼卡顿调音  支持手写笔",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4c9a97e95285890783177036122/v.f20.mp4"
+        }
+    ],
+    "resultType": 1,
+    "searchId": "9643bb394c594196a5840da2f0b53d13",
+    "sid": "9c31ca10-3ba5-423d-b3e8-ea25e844ca55",
+    "success": true,
+    "totalCount": 12,
+    "transferState": 0
+}

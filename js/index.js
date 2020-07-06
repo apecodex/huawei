@@ -39,7 +39,7 @@ function boardSliper() {
         if (count == num+1) {
             count = 1;
         }
-        slider_img.attr("src", "../uploads/borad-sliper-img" + count + ".jpg")
+        slider_img.attr("src", "./uploads/borad-sliper-img" + count + ".jpg")
         slider_nav.eq(count-2).removeClass("current");
         slider_nav.eq(count-1).addClass("current");
     });
@@ -51,7 +51,7 @@ function boardSliper() {
         if (count <= 0) {
             count = 6;
         }
-        slider_img.attr("src", "../uploads/borad-sliper-img" + count + ".jpg")
+        slider_img.attr("src", "./uploads/borad-sliper-img" + count + ".jpg")
         slider_nav.eq(0).removeClass("current");
         slider_nav.eq(count).removeClass("current");
         slider_nav.eq(count-1).addClass("current");
@@ -75,7 +75,7 @@ function boardSliper() {
             count = 6;
         }
         
-        slider_img.attr("src", "../uploads/borad-sliper-img" + count + ".jpg")
+        slider_img.attr("src", "./uploads/borad-sliper-img" + count + ".jpg")
         slider_nav.eq(count-2).removeClass("current");
         slider_nav.eq(count-1).addClass("current");
     }

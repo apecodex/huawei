@@ -1,0 +1,216 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "646",
+            "categoryName": "智慧屏",
+            "categoryPhotoName": "j5V1g0s6YETugifRyb1V.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "secondary_price",
+                    "itemEntryList": [
+                        {
+                            "key": "{\"lte\":3799,\"gt\":0}",
+                            "value": "0-3799"
+                        },
+                        {
+                            "key": "{\"lte\":7999,\"gt\":3799}",
+                            "value": "3799-7999"
+                        },
+                        {
+                            "key": "{\"lte\":25007,\"gt\":7999}",
+                            "value": "7999-25007"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "pageNum": 1,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "华为智慧屏 V65",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4",
+            "name": "华为智慧屏 V65",
+            "photoName": "9CA7B99629C486B82A64D8EBCCB6BF5BDB211AA893F42F55mp.png",
+            "photoPath": "/product/6901443361557/",
+            "picture3DPath": "",
+            "price": 6999.0,
+            "priceAccurate": 6999.00,
+            "priceMode": 1,
+            "productId": 10086467173160,
+            "promoLabels": [
+                "购机赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【预订优惠400元】享12期免息，点击立即预订=》 ",
+            "rateCount": 9430,
+            "skuCode": "3301010005302",
+            "skuCount": 4,
+            "skuName": "华为智慧屏 V65（星际黑）挂架版 4K量子点 4+64GB 升降式AI摄像头 视频通话 智慧音响 鸿鹄芯片 智能家居控制",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4"
+        },
+        {
+            "briefName": "华为智慧屏 V75",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为智慧屏 V75",
+            "photoName": "F5914787EADD22E44AE873EB26A9DEE719BA467ACED12261mp.png",
+            "photoPath": "/product/6901443363834/",
+            "picture3DPath": "",
+            "price": 12999.0,
+            "priceAccurate": 12999.00,
+            "priceMode": 1,
+            "productId": 10086892079069,
+            "promoLabels": [
+                "购机赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【预订优惠1000】 享24期免息，点击立即预订=》 ",
+            "rateCount": 9430,
+            "skuCode": "3301010005402",
+            "skuCount": 2,
+            "skuName": "华为智慧屏 V75（摩卡金）75英寸 鸿鹄芯片 自动升降摄像头 Huawei Share智慧跨屏 Huawei Sound智慧音响 智能家居控制",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为智慧屏 V55i",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4",
+            "name": "华为智慧屏 V55i",
+            "photoName": "1293C2C791F87BE0948D95135021BC202D4B20A735051BDFmp.png",
+            "photoPath": "/product/6901443387588/",
+            "picture3DPath": "",
+            "price": 3799.0,
+            "priceAccurate": 3799.00,
+            "priceMode": 1,
+            "productId": 10086323773138,
+            "promoLabels": [
+                "购机赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【预订优惠200】 享12期免息，点击立即预订=》 4K超高清全面屏 多方视频通话 AI升降式摄像头",
+            "rateCount": 9430,
+            "skuCode": "3301010002101",
+            "skuCount": 2,
+            "skuName": "华为智慧屏V55i-B 55英寸 4K超高清全面屏 多方视频通话 AI升降式摄像头 4GB+32GB 银钻灰",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4"
+        },
+        {
+            "briefName": "荣耀智慧屏系列",
+            "buttonMode": "23",
+            "goodRate": "97",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/9161f2475285890800660514933/v.f20.mp4",
+            "name": "荣耀智慧屏系列",
+            "photoName": "B8DB4FC62435E45B1298B4FE526708215AD7B75925C52421mp.png",
+            "photoPath": "/product/6901443293209/",
+            "picture3DPath": "/display/10086097747140/77370CFE27115DBF9D6FF7F32A5F2D00A59FACDE16FE54D7.zip",
+            "price": 3799.0,
+            "priceAccurate": 3799.00,
+            "priceMode": 1,
+            "productId": 10086097747140,
+            "promoLabels": [
+                "限时特价",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promoPrice": 2799.0,
+            "promoPriceAccurate": 2799.00,
+            "promotionInfo": "【优惠信息】①限时优惠1000元 ②享3期免息 ③加赠直播精灵 首款搭载鸿蒙系统，鸿鹄818智慧芯片，94%屏占比金属超薄全面屏，4K超高清，HuaweiHisten专业音效，魔法闪投，联控智能家居，智慧语音交互！",
+            "rateCount": 12715,
+            "skuCode": "3001090000401",
+            "skuCount": 6,
+            "skuName": "【好产品 高标准】荣耀智慧屏 55英寸4K超清3D金属边框超薄全面屏 大小屏互动 开机无广告",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/9161f2475285890800660514933/v.f20.mp4"
+        },
+        {
+            "briefName": "华为智慧屏 X65",
+            "buttonMode": "1",
+            "goodRate": "100",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4",
+            "name": "华为智慧屏 X65",
+            "photoName": "36F72EB747591D900CAC22B69D6537E1C04D5C485EB66BE0mp.png",
+            "photoPath": "/product/6901443390496/",
+            "picture3DPath": "",
+            "price": 24999.0,
+            "priceAccurate": 24999.00,
+            "priceMode": 1,
+            "productId": 10086597671557,
+            "promoLabels": [
+                "购机赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【预订优惠400元】 赠价值899元空气净化器，享24期免息，点击立即预订=》 4K HDR超高清OLED 超薄全面屏 2400万超广角AI摄像头",
+            "rateCount": 9,
+            "skuCode": "3301010001901",
+            "skuCount": 1,
+            "skuName": "华为智慧屏X65 65英寸 4K HDR超高清OLED 超薄全面屏 2400万超广角AI摄像头 6GB+128GB 星空灰",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4"
+        },
+        {
+            "briefName": "华为智慧屏",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4",
+            "name": "华为智慧屏",
+            "photoName": "9CA7B99629C486B82A64D8EBCCB6BF5BDB211AA893F42F55mp.png",
+            "photoPath": "/product/6901443361557/",
+            "picture3DPath": "",
+            "price": 6999.0,
+            "priceAccurate": 6999.00,
+            "priceMode": 1,
+            "productId": 10086593188778,
+            "promoLabels": [
+                "购机赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【预订优惠400】 享12期免息，点击立即预订=》 4K量子点 4+64GB 升降式AI摄像头 视频通话 智慧音响 鸿鹄芯片 智能家居控制",
+            "rateCount": 9430,
+            "skuCode": "3001090001704",
+            "skuCount": 9,
+            "skuName": "华为智慧屏 V65（星际黑）65英寸 挂架版 4K量子点 4+64GB 升降式AI摄像头 视频通话 智慧音响 鸿鹄芯片 智能家居控制",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/62cd44f85285890803452596929/v.f118461.mp4"
+        },
+        {
+            "briefName": "【新品预订】荣耀智慧屏系列",
+            "buttonMode": "22",
+            "goodRate": "97",
+            "mobileVideoPath": "",
+            "name": "【新品预订】荣耀智慧屏系列",
+            "photoName": "3EFFAFE02AAC4198AE9F88C17371D8E8B7CFFDF51569AA93mp.png",
+            "photoPath": "/product/6901443401703/",
+            "picture3DPath": "",
+            "price": 2299.0,
+            "priceAccurate": 2299.00,
+            "priceMode": 1,
+            "productId": 10086951150635,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 12715,
+            "skuCode": "3001090000505",
+            "skuCount": 1,
+            "skuName": "【爆款官网预订】荣耀智慧屏X1系列 55英寸",
+            "webVideoPath": ""
+        }
+    ],
+    "resultType": 1,
+    "searchId": "177996ecd15948b49fbc6b84cb002439",
+    "sid": "1ec2002b-aee0-4e56-8e24-f92d1ac4cf3f",
+    "success": true,
+    "totalCount": 7,
+    "transferState": 0
+}

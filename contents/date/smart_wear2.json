@@ -1,0 +1,548 @@
+{
+    "code": "0",
+    "labelList": [
+        {
+            "category": "247",
+            "categoryName": "智能手表",
+            "categoryPhotoName": "0Y6mgYUHcG3gERh17TeE.png",
+            "categoryPhotoPath": "/product/virtualCategory/",
+            "labelContentList": [
+                {
+                    "displayName": "价格区间",
+                    "fieldName": "secondary_price",
+                    "itemEntryList": [
+                        {
+                            "key": "{\"lte\":500,\"gt\":0}",
+                            "value": "0-500"
+                        },
+                        {
+                            "key": "{\"lte\":1201,\"gt\":500}",
+                            "value": "500-1201"
+                        },
+                        {
+                            "key": "{\"lte\":1990,\"gt\":1201}",
+                            "value": "1201-1990"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "674",
+            "categoryName": "儿童手表",
+            "categoryPhotoName": "0NCqMxejMwBpEV2y9uLX.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "241",
+            "categoryName": "智能手环",
+            "categoryPhotoName": "mIciZsAGxcsbqvdnpDOR.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "672",
+            "categoryName": "智能健康配件",
+            "categoryPhotoName": "qTAlllD9ywsKq6KeZrXh.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "329",
+            "categoryName": "VR",
+            "categoryPhotoName": "J5J8CdyGd5WZr3b2BxaV.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        },
+        {
+            "category": "58",
+            "categoryName": "充电器/线材",
+            "categoryPhotoName": "Fmgh7SW5ekhoKu9rr7oy.png",
+            "categoryPhotoPath": "/product/virtualCategory/"
+        }
+    ],
+    "pageNum": 2,
+    "pageSize": 20,
+    "resultList": [
+        {
+            "briefName": "荣耀小K 2 儿童手表",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "荣耀小K 2 儿童手表",
+            "photoName": "1545200844844mp.png",
+            "photoPath": "/product/6901443275656/",
+            "picture3DPath": "",
+            "price": 299.0,
+            "priceAccurate": 299.00,
+            "priceMode": 1,
+            "productId": 10086568646192,
+            "promoLabels": [
+                "限时特价",
+                "商品赠券",
+                "赠送积分"
+            ],
+            "promoPrice": 179.0,
+            "promoPriceAccurate": 179.00,
+            "promotionInfo": "①下单支付赢荣耀手机  ② 晒单评价抽400份精美配件 七重定位，精准守护，高品质语音通话，一键SOS预警，守护宝贝更安全！",
+            "rateCount": 13914,
+            "skuCode": "2901010005601",
+            "skuCount": 2,
+            "skuName": "荣耀小K 2 儿童手表（魔法蓝）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为智能体脂秤 2 Pro",
+            "buttonMode": "1",
+            "goodRate": "97",
+            "mobileVideoPath": "",
+            "name": "华为智能体脂秤 2 Pro",
+            "photoName": "8C4FDCA2E0EDFA3E3263CE7A28441652C073E5682B8179A2mp.png",
+            "photoPath": "/product/6901443347049/",
+            "picture3DPath": "",
+            "price": 499.0,
+            "priceAccurate": 499.00,
+            "priceMode": 1,
+            "productId": 10086627093325,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【数码超品日】：① 提前预订优惠100  ② 享3期免息 | 点击立即预订 >>> 全方位体成分报告 | 智能身材识别 | 蓝牙&WiFi双连接 全新八电极设计，测量29项身体数据；一键输出全方位体成分报告，智能识别身材；精准HUAWEI TruFitTM算法，对标金标准DEXA；蓝牙&WiFi双连接，方便智能的时尚潮品",
+            "rateCount": 2798,
+            "skuCode": "3102150137302",
+            "skuCount": 2,
+            "skuName": "华为智能体脂秤 2 Pro（雅致白）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为手环 3e 跑步精灵",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/ae0244f95285890783531688923/v.f20.mp4",
+            "name": "华为手环 3e 跑步精灵",
+            "photoName": "F001B47410B271832D2492CE648CFE733A6E615D9FBBD06Amp.png",
+            "photoPath": "/product/6901443264865/",
+            "picture3DPath": "",
+            "price": 109.0,
+            "priceAccurate": 109.00,
+            "priceMode": 1,
+            "productId": 10086175081287,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "专业跑姿指导，创新跑鞋佩戴，50米防水，14天持久续航。",
+            "rateCount": 7920,
+            "skuCode": "2901020008001",
+            "skuCount": 2,
+            "skuName": "华为手环 3e 跑步精灵（曜石黑）14天长续航 50米防水 科学优化跑姿 创新跑鞋佩戴",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/ae0244f95285890783531688923/v.f20.mp4"
+        },
+        {
+            "briefName": "华为手环 B3青春版",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为手环 B3青春版",
+            "photoName": "1542786877830mp.png",
+            "photoPath": "/product/6901443197262/",
+            "picture3DPath": "",
+            "price": 499.0,
+            "priceAccurate": 499.00,
+            "priceMode": 1,
+            "productId": 121088789,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "是手环  也是耳机  蓝牙通话  智能提醒",
+            "rateCount": 10346,
+            "skuCode": "2901020000601",
+            "skuCount": 1,
+            "skuName": "华为手环B3 青春版（黑色）智能运动手环 腕上蓝牙耳机 智能提醒",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "【订金预订】华为儿童手表 3 Pro 超能版",
+            "buttonMode": "22",
+            "goodRate": "94",
+            "mobileVideoPath": "",
+            "name": "【订金预订】华为儿童手表 3 Pro 超能版",
+            "photoName": "22F2E26803F9236D8943B1FF5F06B1B553D0CCFD83A1A49Dmp.png",
+            "photoPath": "/product/6901443383214/",
+            "picture3DPath": "",
+            "price": 988.0,
+            "priceAccurate": 988.00,
+            "priceMode": 1,
+            "productId": 10086505786978,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 439,
+            "skuCode": "2901010017401",
+            "skuCount": 2,
+            "skuName": "【订金预订】华为儿童手表 3 Pro 超能版（雨林绿）4G全网通 高清视频通话 大存储",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为手环 4e 篮球精灵",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为手环 4e 篮球精灵",
+            "photoName": "75F7D6F81FEEFAB13126EF4F6D94F07ABEF4F37CF9B6401Bmp.png",
+            "photoPath": "/product/6901443323050/",
+            "picture3DPath": "",
+            "price": 129.0,
+            "priceAccurate": 129.00,
+            "priceMode": 1,
+            "productId": 10086783541778,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 2762,
+            "skuCode": "2901020013402",
+            "skuCount": 2,
+            "skuName": "华为手环 4e 篮球精灵（樱珊瑚）14天长续航 50米防水 专业跑姿指导 创新篮球模式",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "华为智能体脂秤wifi版",
+            "buttonMode": "1",
+            "goodRate": "97",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4d2982065285890789387894454/v.f20.mp4",
+            "name": "华为智能体脂秤wifi版",
+            "photoName": "37C8CF03401F10C09EF2D8D23182A48DC3E505A8C78245D7mp.png",
+            "photoPath": "/product/6901443326815/",
+            "picture3DPath": "",
+            "price": 199.0,
+            "priceAccurate": 199.00,
+            "priceMode": 1,
+            "productId": 10086200517458,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 4735,
+            "skuCode": "3102150052402",
+            "skuCount": 1,
+            "skuName": "华为智能体脂秤 WiFi版 白色（支持HUAWEI HiLink ）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/4d2982065285890789387894454/v.f20.mp4"
+        },
+        {
+            "briefName": "华为手环 3 Pro",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "华为手环 3 Pro",
+            "photoName": "B0B2474AF4843DDE84AADB34622232003C7D51AB637A2411mp.png",
+            "photoPath": "/product/6901443262311/",
+            "picture3DPath": "",
+            "price": 399.0,
+            "priceAccurate": 399.00,
+            "priceMode": 1,
+            "productId": 10086761611038,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "享3期免息丨点击了解更多商品>>> 独立GPS 丨彩屏健康手环",
+            "rateCount": 14373,
+            "skuCode": "2901020009803",
+            "skuCount": 3,
+            "skuName": "华为手环 3 Pro（曜石黑）智能运动手环 彩屏触控 NFC支付 心率监测 独立GPS 50米防水",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀手环 5 篮球版",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "荣耀手环 5 篮球版",
+            "photoName": "F17C5A203ECFA65595D105BA7922A1AA547E4F062399FB44mp.png",
+            "photoPath": "/product/6901443325023/",
+            "picture3DPath": "",
+            "price": 129.0,
+            "priceAccurate": 129.00,
+            "priceMode": 1,
+            "productId": 10086972798950,
+            "promoLabels": [
+                "限时特价",
+                "赠送积分"
+            ],
+            "promoPrice": 99.0,
+            "promoPriceAccurate": 99.00,
+            "promotionInfo": "①下单支付赢荣耀手机  ② 晒单评价抽400份精美配件 篮球运动数据监测；支持七项跑姿数据监测，手腕&鞋扣两种佩戴方式；日常活动及睡眠监测；支持来电&消息提醒。",
+            "rateCount": 2895,
+            "skuCode": "2901020014101",
+            "skuCount": 6,
+            "skuName": "荣耀手环5 篮球版 （海鸥灰）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "HUAWEI VR Glass",
+            "buttonMode": "1",
+            "goodRate": "96",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/ab2d6acb5285890800103688528/v.f20.mp4",
+            "name": "HUAWEI VR Glass",
+            "photoName": "560FE764C43FB2FFC29E80E172525294BEA2BBE26DEBF3ECmp.png",
+            "photoPath": "/product/6901443362950/",
+            "picture3DPath": "",
+            "price": 2999.0,
+            "priceAccurate": 2999.00,
+            "priceMode": 1,
+            "productId": 10086764590930,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "①限量赠手环3e  ② 享12期免息 | 点击了解更多商品>>> IMAX巨幕体验，支持手机投屏，海量精品片源，可折叠设计便携收纳，轻柔面罩佩戴舒适，支持HUAWEI P40系列，Mate Xs，Mate 30系列，P30系列，Mate 20 X 5G， Mate 20系列，荣耀V20系列",
+            "rateCount": 2527,
+            "skuCode": "3102170001701",
+            "skuCount": 1,
+            "skuName": "HUAWEI VR Glass（亮黑色）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/ab2d6acb5285890800103688528/v.f20.mp4"
+        },
+        {
+            "briefName": "华为手环 3",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为手环 3",
+            "photoName": "6C178F2F41874A972E248BDF6C0E24A45B5EDE6512F7571Dmp.png",
+            "photoPath": "/product/6901443288496/",
+            "picture3DPath": "",
+            "price": 269.0,
+            "priceAccurate": 269.00,
+            "priceMode": 1,
+            "productId": 10086010736804,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "实时心率 丨彩屏触控丨50米防水",
+            "rateCount": 8367,
+            "skuCode": "2901020009904",
+            "skuCount": 2,
+            "skuName": "华为手环 3（云母粉）智能运动手环 彩屏触控 心率监测 睡眠分析 多运动模式 50米防水",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "荣耀智能体脂秤WiFi版",
+            "buttonMode": "1",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/57306b565285890792117858822/v.f20.mp4",
+            "name": "荣耀智能体脂秤WiFi版",
+            "photoName": "1558357561901mp.png",
+            "photoPath": "/product/6901443272297/",
+            "picture3DPath": "",
+            "price": 199.0,
+            "priceAccurate": 199.00,
+            "priceMode": 1,
+            "productId": 10086470804745,
+            "promoLabels": [
+                "限时特价",
+                "赠送积分"
+            ],
+            "promoPrice": 159.0,
+            "promoPriceAccurate": 159.00,
+            "promotionInfo": "①下单支付赢荣耀手机  ② 晒单评价抽400份精美配件 支持心率检测，心理压力检测，反馈式放松训练，智连Wi-Fi，测量更迅速；17项指标，全面了解身体健康状态，让减脂更轻松；钢化玻璃釉色白秤面，高雅不止",
+            "rateCount": 2451,
+            "skuCode": "3102150077501",
+            "skuCount": 2,
+            "skuName": "荣耀智能体脂秤WiFi版 白色（支持HUAWEI HiLink）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/57306b565285890792117858822/v.f20.mp4"
+        },
+        {
+            "briefName": "华为mini体重秤",
+            "buttonMode": "1",
+            "goodRate": "99",
+            "mobileVideoPath": "",
+            "name": "华为mini体重秤",
+            "photoName": "8A6897DCB666FEAF3E1005AE4B8DAE77FC54CA5981E37649mp.png",
+            "photoPath": "/product/6901443329502/",
+            "picture3DPath": "",
+            "price": 79.0,
+            "priceAccurate": 79.00,
+            "priceMode": 1,
+            "productId": 10086499673957,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 1916,
+            "skuCode": "3102150084302",
+            "skuCount": 1,
+            "skuName": "华为mini体重秤（白色）",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "【订金】荣耀手表2 Magicwatch2",
+            "buttonMode": "22",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/70b6f97b5285890796060667873/v.f20.mp4",
+            "name": "【订金】荣耀手表2 Magicwatch2",
+            "photoName": "909881D6BCBF027F47EEF3EF6AA5D8407613AA8228980DF8mp.png",
+            "photoPath": "/product/6901443357949/",
+            "picture3DPath": "",
+            "price": 1199.0,
+            "priceAccurate": 1199.00,
+            "priceMode": 1,
+            "productId": 10086059489148,
+            "promoLabels": [
+                "商品赠券",
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 16878,
+            "skuCode": "2901010013201",
+            "skuCount": 4,
+            "skuName": "【订金】荣耀手表2 46mm 运动款碳石黑MagicWatch",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/70b6f97b5285890796060667873/v.f20.mp4"
+        },
+        {
+            "briefName": "【优惠抢先购】华为儿童手表 3",
+            "buttonMode": "22",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1fc169935285890784237531665/v.f20.mp4",
+            "name": "【优惠抢先购】华为儿童手表 3",
+            "photoName": "B82D67C119283942BCC92625B03EAAEB4BC6A7C7065DEBCBmp.png",
+            "photoPath": "/product/6901443278381/",
+            "picture3DPath": "",
+            "price": 298.0,
+            "priceAccurate": 298.00,
+            "priceMode": 1,
+            "productId": 10086091806208,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "【数码超品日  预订省50】：① 享3期免息  ② 7月10日0点支付尾款 丨点击了解更多优惠 >>> 精准定位，一键呼救，清晰通话，拍照分享",
+            "rateCount": 15451,
+            "skuCode": "2901010006503",
+            "skuCount": 3,
+            "skuName": "【优惠抢先购】华为儿童手表 3（星云粉）清晰通话 拍照分享 精准定位 一键呼救 学生电话手表",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1fc169935285890784237531665/v.f20.mp4"
+        },
+        {
+            "briefName": "【订金】华为手环 4 pro",
+            "buttonMode": "22",
+            "goodRate": "97",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/5fff16d75285890796569127531/v.f20.mp4",
+            "name": "【订金】华为手环 4 pro",
+            "photoName": "EC4E2F03BF69EFDF92BDB185547A4C733BA8AE3781105B39mp.png",
+            "photoPath": "/product/6901443360277/",
+            "picture3DPath": "",
+            "price": 399.0,
+            "priceAccurate": 399.00,
+            "priceMode": 1,
+            "productId": 10086873767315,
+            "promoLabels": [
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 6587,
+            "skuCode": "2901020017401",
+            "skuCount": 3,
+            "skuName": "【订金】华为手环 4 Pro（曜石黑）炫彩表盘 NFC智能刷卡 健康管理 专业运动指导 独立GPS 智能运动手环",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/5fff16d75285890796569127531/v.f20.mp4"
+        },
+        {
+            "briefName": "【优惠抢先购】华为儿童手表 3S",
+            "buttonMode": "22",
+            "goodRate": "98",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/3fe88ece5285890794168412334/v.f20.mp4",
+            "name": "【优惠抢先购】华为儿童手表 3S",
+            "photoName": "8CFE34C8B9A759E75D855553576F28162679C6C85C4BD2E1mp.png",
+            "photoPath": "/product/6901443309177/",
+            "picture3DPath": "",
+            "price": 498.0,
+            "priceAccurate": 498.00,
+            "priceMode": 1,
+            "productId": 10086916142232,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 4098,
+            "skuCode": "2901010009602",
+            "skuCount": 2,
+            "skuName": "【优惠抢先购】华为儿童手表 3s（冰山蓝）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/3fe88ece5285890794168412334/v.f20.mp4"
+        },
+        {
+            "briefName": "【订金】华为儿童手表 3X",
+            "buttonMode": "22",
+            "goodRate": "98",
+            "mobileVideoPath": "",
+            "name": "【订金】华为儿童手表 3X",
+            "photoName": "A4371A3DBBB54E716C24178C3DE2245D957812438C9EAEFAmp.png",
+            "photoPath": "/product/6901443309153/",
+            "picture3DPath": "",
+            "price": 898.0,
+            "priceAccurate": 898.00,
+            "priceMode": 1,
+            "productId": 10086744676538,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "",
+            "rateCount": 1513,
+            "skuCode": "2901010010301",
+            "skuCount": 2,
+            "skuName": "【优惠抢先购】华为儿童手表 3X（曜石黑）九重AI定位 智能AI识物 500万高清摄像 零花钱管理 4G全网通学生电话手表",
+            "webVideoPath": ""
+        },
+        {
+            "briefName": "【订金】HUAWEI VR Glass",
+            "buttonMode": "22",
+            "goodRate": "96",
+            "mobileVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1cd9649e5285890796456309928/v.f20.mp4",
+            "name": "【订金】HUAWEI VR Glass",
+            "photoName": "560FE764C43FB2FFC29E80E172525294BEA2BBE26DEBF3ECmp.png",
+            "photoPath": "/product/6901443362950/",
+            "picture3DPath": "",
+            "price": 2999.0,
+            "priceAccurate": 2999.00,
+            "priceMode": 1,
+            "productId": 10086624234254,
+            "promoLabels": [
+                "分期免息",
+                "赠送积分"
+            ],
+            "promotionInfo": "IMAX巨幕体验，支持手机投屏，海量精品片源，可折叠设计便携收纳，轻柔面罩佩戴舒适，支持HUAWEI Mate 30系列，P30系列，Mate 20 X 5G， Mate 20系列，荣耀V20系列",
+            "rateCount": 2527,
+            "skuCode": "3102170001601",
+            "skuCount": 1,
+            "skuName": "【订金】HUAWEI VR Glass（亮黑色）",
+            "webVideoPath": "https://1251250874.vod2.myqcloud.com/439f276avodtransgzp1251250874/1cd9649e5285890796456309928/v.f20.mp4"
+        },
+        {
+            "briefName": "贝尔金Belkin VR 计算机数据线",
+            "buttonMode": "1",
+            "goodRate": "97",
+            "mobileVideoPath": "",
+            "name": "贝尔金Belkin VR 计算机数据线",
+            "photoName": "340B6727826CA9EDED797D9C4EA3C6A1B5BF6A6096A51778mp.png",
+            "photoPath": "/product/4260184669592/",
+            "picture3DPath": "",
+            "price": 436.0,
+            "priceAccurate": 436.00,
+            "priceMode": 1,
+            "productId": 10086215311701,
+            "promoLabels": [],
+            "promotionInfo": "DESIGN FOR HUAWEI（简称DFH）授权VR计算机数据线，适配HUAWEI VR Glass与计算机连接，支持DisplayPort高速传输，支持HUAWEI VR Glass 的PC 模式3K 90Hz分辨率，全长4.5米，畅享沉浸式VR游戏和大屏观影体验",
+            "rateCount": 245,
+            "skuCode": "3102150141601",
+            "skuCount": 1,
+            "skuName": "贝尔金Belkin VR 计算机数据线 黑色 (支持 HUAWEI VR Glass)（DESIGN FOR HUAWEI认证）",
+            "webVideoPath": ""
+        }
+    ],
+    "resultType": 1,
+    "searchId": "0f9b3bcaab314dd795ac4b5813a61fde",
+    "success": true,
+    "totalCount": 41,
+    "transferState": 0
+}
